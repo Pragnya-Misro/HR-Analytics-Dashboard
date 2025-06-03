@@ -15,6 +15,7 @@ Objective:The primary objective of this project is to:
 5.Provide an interactive and user-friendly interface that assists HR managers in recruitment planning, performance reviews, and workforce forecasting.
 
 Tech Stack
+
 1.Power BI: For designing interactive dashboards and visualizing key metrics.
 
 2.Data Sources: Employee data collected from HR management systems or structured spreadsheets.
