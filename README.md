@@ -2,7 +2,7 @@ HR Analytics Dashboard Using PowerBI
 
 This project presents an HR Analytics Dashboard built using Power BI to help HR professionals make data-driven decisions. The dashboard provides insightful visualizations and key HR metrics that enable organizations to monitor and enhance workforce performance.
 
-Objective:The primary objective of this project is to:
+Objective: The primary objective of this project is to:
 
 1.Analyze employee performance, including individual and departmental trends.
 
@@ -14,7 +14,7 @@ Objective:The primary objective of this project is to:
 
 5.Provide an interactive and user-friendly interface that assists HR managers in recruitment planning, performance reviews, and workforce forecasting.
 
-Tech Stack
+Tech Stack:
 
 1.Power BI: For designing interactive dashboards and visualizing key metrics.
 
